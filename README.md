@@ -20,3 +20,11 @@ The script performs the following tasks:
 3. **Limited Error Reporting:** The script provides minimal error reporting. Enhancing error handling and logging would improve its robustness and maintainability.
 
 4. **Security Considerations:** Storing the webhook URL in the script may pose a security risk, especially if the script is shared or version-controlled publicly.
+
+
+##Sample Discord Output:
+
+![image](https://github.com/lurayy/API-Heart-Beat-Check-Script/assets/17372825/81b2f0e4-6382-4634-94e0-91e1da4aba02)
+
+## If Server is Down
+![image](https://github.com/lurayy/API-Heart-Beat-Check-Script/assets/17372825/0bae67ad-cab3-4025-bc9f-fba89e00a672)
